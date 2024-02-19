@@ -1,0 +1,76 @@
+<i class="fa-brands fa-youtube"></i>
+<i class="fa-solid fa-shop"></i>
+<i class="fa-solid fa-bars"></i>
+<i class="fa-solid fa-plus"></i>
+<i class="fa-solid fa-comment-dots"></i>
+
+
+Whack-a-Mole Challenge
+Mole Hunter Pro
+ReactMole Clicker
+Mole Mania
+Mole Whacker Game
+Mole Click Adventure
+ReactWhack Challenge
+
+<i class="fa-solid fa-bell"></i>
+<i class="fa-solid fa-magnifying-glass"></i>
+<i class="fa-solid fa-gear"></i>
+<i class="fa-solid fa-circle-question"></i>
+<i class="fa-solid fa-moon"></i>
+<i class="fa-solid fa-right-from-bracket"></i>
+
+<i data-visualcompletion="css-img" class="x1b0d499 xep6ejk" style="background-image: url(&quot;https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/vZx3HqQM23H.png?_nc_eui2=AeEq9k4t1ZEEzb1CyzIzi0mGovP9BYabpgai8_0FhpumBpa_dtlasyiyWpv8AuGXlMZhsKgW-n6eoQlouCYlTJ-a&quot;); background-position: 0px -67px; background-size: auto; width: 20px; height: 20px; background-repeat: no-repeat; display: inline-block;"></i>
+
+
+
+<i class="fa-solid fa-pen-to-square"></i>
+<i class="fa-solid fa-book-open"></i>
+<i class="fa-solid fa-clapperboard"></i>
+<i class="fa-solid fa-star"></i>
+<i class="fa-solid fa-flag"></i>
+<i class="fa-solid fa-bullhorn"></i>
+<i class="fa-solid fa-globe"></i>
+<i class="fa-solid fa-globe"></i>
+<i class="fa-solid fa-basket-shopping"></i>
+<i class="fa-solid fa-ellipsis"></i>
+
+
+
+<i class="fa-light fa-comment"></i>
+<i class="fa-thin fa-share"></i>
+<i class="fa-solid fa-share-from-square"></i>
+<i class="fa-solid fa-thumbs-up"></i>
+<i class="fa-light fa-thumbs-up"></i>
+<i class="fa-light fa-face-smile"></i>
+<i class="fa-light fa-camera"></i>
+<i class="fa-light fa-note-sticky"></i>
+<i class="fa-light fa-gif"></i>
+<i class="fa-sharp fa-solid fa-comment"></i>
+<i class="fa-solid fa-photo-film"></i>
+     <i class="fa-solid fa-face-smile"></i>
+     <i class="fa-regular fa-paper-plane"></i>
+     <i class="fa-light fa-paper-plane"></i>
+     <i class="fa-duotone fa-clock"></i>
+     <i class="fa-solid fa-clock"></i>
+     <i class="fa-regular fa-clock"></i>
+
+
+/* styles.css */
+
+/* For WebKit browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+  width: 12px; /* Adjust the width as needed */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #888; /* Color of the thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #555; /* Color of the thumb on hover */
+}
+
+::-webkit-scrollbar-track {
+  background-color: #eee; /* Color of the track */
+}
